@@ -23,7 +23,7 @@ Cleaned and standardized a messy real-world layoffs dataset using MySQL — dedu
 
 ### 📈 My learning progress
 
-I track my 90-day roadmap publicly here: **[Live progress checklist →](https://gomzy-limbo.github.io/data-analytics-checklist/)**
+I track my roadmap publicly here: **[Live progress checklist →](https://gomzy-limbo.github.io/data-analytics-checklist/)**
 
 ---
 
