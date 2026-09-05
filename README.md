@@ -2,7 +2,7 @@
 
 CS student at IU International University Berlin, working toward a **Werkstudent role in Data Analytics** in Berlin.
 
-I'm building my skills through a structured hands-on roadmap — SQL → Excel → Power BI → Python → Azure — and documenting the process publicly as I go.
+I'm building my skills through a structured hands-on roadmap: SQL → Excel → Power BI → Python → Azure and documenting the process publicly as I go.
 
 ---
 
@@ -15,7 +15,7 @@ I'm building my skills through a structured hands-on roadmap — SQL → Excel �
 ### 📌 Featured project
 
 **[SQL Layoffs Data Analysis](https://github.com/Gomzy-Limbo/layoffs-data-analysis)**  
-Cleaned and standardized a messy real-world layoffs dataset using MySQL — deduplication with window functions, null handling via self-joins, and data type fixes — as prep for exploratory analysis.
+Cleaned and standardized a messy real-world layoffs dataset using MySQL, deduplication with window functions, null handling via self-joins, and data type fixes as prep for exploratory analysis.
 
 *(more projects landing here as I build them — Power BI dashboard and a Python/AWS pipeline are next)*
 
