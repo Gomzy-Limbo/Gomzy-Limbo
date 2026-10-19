@@ -17,7 +17,7 @@ I'm building my skills through a structured hands-on roadmap: SQL → Excel → 
 **[SQL Layoffs Data Analysis](https://github.com/Gomzy-Limbo/layoffs-data-analysis)**  
 Cleaned and standardized a messy real-world layoffs dataset using MySQL, deduplication with window functions, null handling via self-joins, and data type fixes as prep for exploratory analysis.
 
-*(more projects landing here as I build them — Power BI dashboard and a Python/AWS pipeline are next)*
+*(more projects landing here as I build them, Power BI dashboard and a Python/AWS pipeline are next)*
 
 ---
 
